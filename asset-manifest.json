@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/time-calc/static/css/main.b100e6da.chunk.css",
+    "main.js": "/time-calc/static/js/main.1321ab09.chunk.js",
+    "main.js.map": "/time-calc/static/js/main.1321ab09.chunk.js.map",
+    "runtime-main.js": "/time-calc/static/js/runtime-main.f39fc639.js",
+    "runtime-main.js.map": "/time-calc/static/js/runtime-main.f39fc639.js.map",
+    "static/js/2.81db6b96.chunk.js": "/time-calc/static/js/2.81db6b96.chunk.js",
+    "static/js/2.81db6b96.chunk.js.map": "/time-calc/static/js/2.81db6b96.chunk.js.map",
+    "index.html": "/time-calc/index.html",
+    "precache-manifest.c80381f5b64c31dc4620a290df98b60d.js": "/time-calc/precache-manifest.c80381f5b64c31dc4620a290df98b60d.js",
+    "service-worker.js": "/time-calc/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/time-calc/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/time-calc/static/media/logo.25bf045c.svg"
+  }
+}
